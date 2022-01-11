@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Avatar",
+        "year": "2009",
+        "actor": "Zoe Saldana",
+        "rate": 9
+    },
+    {
+        "name": "The Avengers",
+        "year": "2012",
+        "actor": "Chris Evans",
+        "rate": 5
+    },
+    {
+        "name": "Interstellar",
+        "year": "2014",
+        "actor": "Ellen Burstyn",
+        "rate": 10
+    },
+    {
+        "name": "The Wolf of Wall Street",
+        "year": "2012",
+        "actor": "Leonardo DiCaprio",
+        "rate": 8
+    },
+    {
+        "name": "I Am Legend",
+        "year": "2007",
+        "actor": "Will Smith",
+        "rate": 2
+    }
+]
